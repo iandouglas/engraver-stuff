@@ -1,3 +1,4 @@
 *.svg
 */*.svg
 */*/*.svg
+src_images
